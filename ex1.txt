@@ -1,0 +1,1 @@
+streamlit run calculadora_emissoes.py
